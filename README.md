@@ -1,2 +1,2 @@
-# school
-My first repository
+# Repository for school
+Programm...
