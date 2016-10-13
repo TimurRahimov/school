@@ -1,4 +1,4 @@
-program srArifmet;
+program sArf;
 
 uses crt;
 
