@@ -109,3 +109,5 @@ begin
     writeln('Ответ: ', a, '*', b, '=', c);
   end;
 end.
+
+//(c) Rahimov, 2016
