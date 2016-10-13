@@ -2,6 +2,7 @@ program calc;
 
 Uses crt;
 
+
 var
   s, name: string;
   a, b: integer;
