@@ -16,3 +16,5 @@ begin
   end;
   writeln('A = ', a);
 end.
+
+//(c) Rahimov, 2016
