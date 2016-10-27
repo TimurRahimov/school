@@ -13,3 +13,5 @@ begin
   a:=a+n;
   writeln('A = ', a);
 end.
+
+//(c) Rahimov, 2016
