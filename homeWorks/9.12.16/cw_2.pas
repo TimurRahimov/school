@@ -1,7 +1,7 @@
 program cw_2;
 
 var 
-  x,z,c:integer;
+  x,z,c: integer;
   y,k,n: real; 
   
 begin
